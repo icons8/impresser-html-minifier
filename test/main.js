@@ -3,7 +3,7 @@ var
   HtmlMinify = require('..')
   ;
 
-describe('impress-blocked-resource', function () {
+describe('impress-html-minify', function () {
   it('should work', function() {
     var
       minify = new HtmlMinify();
