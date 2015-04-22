@@ -1,1 +1,1 @@
-# Impress HTML minify
+# Impresser HTML minifier

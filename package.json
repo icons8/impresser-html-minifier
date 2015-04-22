@@ -1,10 +1,10 @@
 {
-  "name": "impress-html-minify",
-  "description": "Impress HTML minify",
+  "name": "impresser-html-minifier",
+  "description": "Impresser HTML minifier",
   "version": "0.1.1",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/icons8/impress-html-minify"
+    "url": "https://github.com/icons8/impresser-html-minifier"
   },
   "license": "MIT",
   "dependencies": {
